@@ -1,4 +1,4 @@
-package com.example.homebudget;
+package com.finalproject.homebudget;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

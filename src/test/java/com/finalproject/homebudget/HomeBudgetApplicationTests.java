@@ -1,4 +1,4 @@
-package com.example.homebudget;
+package com.finalproject.homebudget;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
